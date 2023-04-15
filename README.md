@@ -1,4 +1,4 @@
-##Hi there 👋
+## Hi there 👋
 
 I'm excited to share a bit about myself with you! I recently graduated from Auckland University of Technology, where I studied a Bachelor of Computer and Information Science in software development. Basically, I'm a coding wizard 🧙‍♂️
 

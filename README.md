@@ -8,7 +8,7 @@ When I'm not busy coding, you can usually find me in the kitchen whipping up a d
 
 Aside from cooking, I'm also passionate about learning new soft skills that can help me grow both personally and professionally. Whether it's working on my communication skills or learning how to be a better team player, I'm always looking for ways to improve. 💼📈
 
-In my spare time, I enjoy creating content on LinkedIn to share my knowledge and experiences with others. I love being a part of the community and helping others learn and grow in their careers. Whether it's writing articles or creating videos, there's something special about being a content creator! 🎥📝
+I enjoy creating content on LinkedIn to share my knowledge and experiences with others. I love being a part of the community and helping others learn and grow in their careers. Whether it's writing articles or creating videos, there's something special about being a content creator! 🎥📝
 
 One thing that definitely fuels my creativity is watching movies and TV series. And when it comes to superhero movies, Marvel is where it's at! Who else is a fan of Iron Man, Captain America, and the rest of the Avengers? 🦸‍♂️🦸‍♀️
 

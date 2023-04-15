@@ -1,13 +1,3 @@
-# WELCOME TO MY PAGE
-👋 Hey there! Welcome to my page! I'm super stoked to share with you all about myself and the different 🚀 projects I've been working on throughout my professional journey!
-
-- [ About Me ](#-about-me)
-- [Code Snippets and Projects: Bringing Ideas to Life!](#-code-snippets-and-projects-bringing-ideas-to-life-)
-
-
-$~$
-
-## 🚀 ABOUT ME
 I'm excited to share a bit about myself with you! I recently graduated from Auckland University of Technology, where I studied a Bachelor of Computer and Information Science in software development. Basically, I'm a coding wizard 🧙‍♂️
 
 My passion lies in full-stack development, website development, and mobile application development. I love being creative and innovative when building applications - it's like solving a puzzle that no one else has solved before! 🤓
@@ -28,11 +18,3 @@ Thanks for taking the time to get to know me a bit better. Let's go out and have
 
 #### Feel free to connect with me on LinkedIn to explore potential collaborations and expand our professional network 👥
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-h-patel/)
-
-$~$
-
-## 👨‍💻🚀 Code Snippets and Projects: Bringing Ideas to Life! 💡💻
-
-Welcome to my portfolio, where I proudly present a diverse range of applications and websites that I have meticulously crafted throughout my journey as a developer. 🚀 From innovative web interfaces to functional mobile applications, each project represents my deep passion for technology and my commitment to delivering outstanding user experiences. So feel free to explore and witness the power of my skills and creativity in action. 🌟✨
-
-

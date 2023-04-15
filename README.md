@@ -1,3 +1,5 @@
+##Hi there 👋
+
 I'm excited to share a bit about myself with you! I recently graduated from Auckland University of Technology, where I studied a Bachelor of Computer and Information Science in software development. Basically, I'm a coding wizard 🧙‍♂️
 
 My passion lies in full-stack development, website development, and mobile application development. I love being creative and innovative when building applications - it's like solving a puzzle that no one else has solved before! 🤓

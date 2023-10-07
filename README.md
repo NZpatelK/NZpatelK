@@ -21,7 +21,6 @@ Thanks for taking the time to get to know me a bit better. Let's go out and have
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

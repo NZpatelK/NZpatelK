@@ -47,4 +47,5 @@ https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-origin
 
 
 #### Feel free to connect with me on LinkedIn to explore potential collaborations and expand our professional network 👥
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-h-patel/)
